@@ -88,7 +88,7 @@ TX (2) |----------------------| 4 DI   Gnd 5 |---+------------ Pin 1
 
 #include <Arduino.h>
 #include <inttypes.h>
-#include <rdm/UID.h>
+#include "rdm/UID.h"
 
 #define DMX_MIN_SLOTS 24
 #define RDM_MAX_FRAME 257

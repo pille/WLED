@@ -14,7 +14,7 @@
 /**************************************************************************/
 
 #include <Arduino.h>
-#include <rdm/UID.h>
+#include "UID.h"
 #include <Print.h>
 
 UID::UID( void ) {

@@ -6,7 +6,7 @@
 #ifdef WLED_ENABLE_DMX
 
 #ifdef ESP8266
-  #include <LXESP8266UARTDMX.h>
+  #include <lxesp8266dmx/LXESP8266UARTDMX.h>
 #else
   #include <LXESP32DMX.h>
 #endif

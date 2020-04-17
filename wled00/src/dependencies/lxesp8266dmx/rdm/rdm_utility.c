@@ -12,7 +12,7 @@
     v1.0 - First release
 */
 /**************************************************************************/
-#include <rdm/rdm_utility.h>
+#include "rdm_utility.h"
 
 uint16_t rdmChecksum(uint8_t* bytes, uint8_t len) {
 	uint16_t rv = 0;

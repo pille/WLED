@@ -30,8 +30,8 @@ extern "C" {
 #include "user_interface.h"
 }
 
-#include <LXESP8266UARTDMX.h>
-#include <rdm/rdm_utility.h>
+#include "LXESP8266UARTDMX.h"
+#include "rdm/rdm_utility.h"
 
 LX8266DMX ESP8266DMX;
 
