@@ -1,6 +1,3 @@
-[submodule "lib/LXESP8266DMX"]
-	path = lib/LXESP8266DMX
-	url = https://github.com/claudeheintz/LXESP8266DMX.git
 [submodule "lib/LXESP32DMX"]
 	path = lib/LXESP32DMX
 	url = https://github.com/claudeheintz/LXESP32DMX.git
